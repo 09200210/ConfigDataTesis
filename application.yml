@@ -5,3 +5,7 @@ eureka:
       --defaultZone: http://192.168.0.239:8761/eureka/
     registerWithEureka: true
     fetchRegistry: true
+status:
+ message: {succesful:'OK', unsuccesful:'Error Unknown.', noresult:'No se encontraron resultados'}
+status:
+ code: {succesful:'0', unsuccesful:'1', noresult:'2', request_required:'3'}
