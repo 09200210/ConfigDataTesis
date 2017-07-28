@@ -10,8 +10,5 @@ status:
    succesful: OK
    unsuccesful: Error Unknown.
    noresult: No se encontraron resultados
-status:
  codes: {succesful: '0', unsuccesful: '1', noresult: '2', request_required: '3'}
-mensajes: {succesful: 'OK', unsuccesful: 'Error Unknown.', noresult: 'No se encontraron resultados'}
-codigos: {succesful: '0', unsuccesful: '1', noresult: '2', request_required: '3'}
 
